@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-community
+langgraph
+pydantic
+beautifulsoup4
+langchain-tavily
+pypdf
+langchain-text-splitters
+ipython
