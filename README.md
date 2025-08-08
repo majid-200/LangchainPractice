@@ -27,19 +27,6 @@ The notebooks are based on official LangChain tutorials and are adapted to showc
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
-    A `requirements.txt` for this project would look like this:
-    ```
-    langchain
-    langchain-ollama
-    langchain-community
-    langgraph
-    pydantic
-    beautifulsoup4
-    langchain-tavily
-    pypdf
-    langchain-text-splitters
-    ipython
-    ```
 
 3.  **Set up Ollama:**
     - Install [Ollama](https://ollama.com/) on your local machine.
